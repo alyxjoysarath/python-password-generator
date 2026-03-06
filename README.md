@@ -37,4 +37,4 @@ This program generates a secure password based on the number of letters, numbers
 
 ## 📷 Project Demo
 
-![Password Generator Demo](screenshots/password_generator_demo.png)
+![Password Generator Demo](password_generator_demo.png)

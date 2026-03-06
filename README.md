@@ -1,9 +1,7 @@
+# 🔐 Python Password Generator
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
 ![Status](https://img.shields.io/badge/Project-Completed-green)
 ![Beginner Project](https://img.shields.io/badge/Level-Beginner-orange)
-
-
-# 🔐 Python Password Generator
 
 A simple command-line Password Generator built using Python.  
 This program generates a secure password based on the number of letters, numbers, and symbols chosen by the user.

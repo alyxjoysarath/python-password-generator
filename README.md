@@ -34,3 +34,7 @@ This program generates a secure password based on the number of letters, numbers
 2. The program randomly selects characters.
 3. All characters are shuffled.
 4. A strong password is generated and displayed.
+
+## 📷 Project Demo
+
+![Password Generator Demo](screenshots/password_generator_demo.png)
